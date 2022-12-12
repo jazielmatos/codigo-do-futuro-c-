@@ -1,0 +1,8 @@
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\bin\Debug\exercicio1.exe.config
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\bin\Debug\exercicio1.exe
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\bin\Debug\exercicio1.pdb
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.AssemblyReference.cache
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\obj\Debug\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\obj\Debug\exercicio1.exe
+C:\Users\Jaziel\Desktop\JAZIEL\CODIGO DO FUTURO\BACK-END\exercicio1\exercicio1\obj\Debug\exercicio1.pdb
